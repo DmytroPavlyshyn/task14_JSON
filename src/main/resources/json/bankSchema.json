@@ -1,0 +1,153 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "required": [
+      "bankId",
+      "name",
+      "country",
+      "depositTypes",
+      "depositor",
+      "accountId",
+      "amountOnDeposit",
+      "profitability",
+      "duration"
+    ],
+    "properties": {
+      "bankId": {
+        "$id": "#/items/properties/bankId",
+        "type": "integer",
+        "title": "The Bankid Schema",
+        "default": 0,
+        "examples": [
+          1
+        ]
+      },
+      "name": {
+        "$id": "#/items/properties/name",
+        "type": "string",
+        "title": "The Name Schema",
+        "default": "",
+        "examples": [
+          "Bank"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "country": {
+        "$id": "#/items/properties/country",
+        "type": "string",
+        "title": "The Country Schema",
+        "default": "",
+        "examples": [
+          "Ukraine"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "depositTypes": {
+        "$id": "#/items/properties/depositTypes",
+        "type": "array",
+        "title": "The Deposittypes Schema",
+        "items": {
+          "$id": "#/items/properties/depositTypes/items",
+          "type": "string",
+          "enum": ["QUESTION", "EXPRESS","CALCULATED","ACCUMULATIVE","SAVING","METALLIC"],
+          "title": "The Items Schema",
+          "examples": [
+            "CALCULATED"
+          ]
+
+        }
+      },
+      "depositor": {
+        "$id": "#/items/properties/depositor",
+        "type": "string",
+        "title": "The Depositor Schema",
+        "default": "",
+        "examples": [
+          "1"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "accountId": {
+        "$id": "#/items/properties/accountId",
+        "type": "integer",
+        "title": "The Accountid Schema",
+        "default": 0,
+        "examples": [
+          1
+        ],
+        "minimum": 0.0
+      },
+      "amountOnDeposit": {
+        "$id": "#/items/properties/amountOnDeposit",
+        "type": "integer",
+        "title": "The Amountondeposit Schema",
+        "default": 0,
+        "examples": [
+          1
+        ],
+        "minimum": 0.0
+      },
+      "profitability": {
+        "$id": "#/items/properties/profitability",
+        "type": "integer",
+        "title": "The Profitability Schema",
+        "default": 0,
+        "examples": [
+          1
+        ],
+        "minimum": 0.0
+      },
+      "duration": {
+        "$id": "#/items/properties/duration",
+        "type": "object",
+        "title": "The Duration Schema",
+        "required": [
+          "year",
+          "month",
+          "day"
+        ],
+        "properties": {
+          "year": {
+            "$id": "#/items/properties/duration/properties/year",
+            "type": "integer",
+            "title": "The Year Schema",
+            "default": 0,
+            "examples": [
+              2018
+            ],
+            "minimum": 0.0
+          },
+          "month": {
+            "$id": "#/items/properties/duration/properties/month",
+            "type": "integer",
+            "title": "The Month Schema",
+            "default": 0,
+            "examples": [
+              12
+            ],
+            "minimum": 1.0,
+            "maximum": 12.0
+          },
+          "day": {
+            "$id": "#/items/properties/duration/properties/day",
+            "type": "integer",
+            "title": "The Day Schema",
+            "default": 0,
+            "examples": [
+              1
+            ],
+            "minimum": 1.0,
+            "maximum": 366.0
+          }
+        }
+      }
+    }
+  }
+}

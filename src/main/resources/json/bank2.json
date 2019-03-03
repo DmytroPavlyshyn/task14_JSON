@@ -1,0 +1,87 @@
+[
+  {
+    "bankId": 0,
+    "name": "Bank",
+    "country": "Country",
+    "depositTypes": [
+      "CALCULATED"
+    ],
+    "depositor": "Depositor",
+    "accountId": 0,
+    "amountOnDeposit": 347,
+    "profitability": 1,
+    "duration": {
+      "year": 2026,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Country",
+    "depositTypes": [
+      "ACCUMULATIVE"
+    ],
+    "depositor": "Depositor",
+    "accountId": 1,
+    "amountOnDeposit": 385,
+    "profitability": 1,
+    "duration": {
+      "year": 2023,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "bankId": 2,
+    "name": "Bank",
+    "country": "Country",
+    "depositTypes": [
+      "METALLIC"
+    ],
+    "depositor": "Depositor",
+    "accountId": 2,
+    "amountOnDeposit": 384,
+    "profitability": 1,
+    "duration": {
+      "year": 2026,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "bankId": 3,
+    "name": "Bank",
+    "country": "Country",
+    "depositTypes": [
+      "METALLIC"
+    ],
+    "depositor": "Depositor",
+    "accountId": 3,
+    "amountOnDeposit": 578,
+    "profitability": 1,
+    "duration": {
+      "year": 2022,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "bankId": 4,
+    "name": "Bank",
+    "country": "Country",
+    "depositTypes": [
+      "METALLIC"
+    ],
+    "depositor": "Depositor",
+    "accountId": 4,
+    "amountOnDeposit": 367,
+    "profitability": 1,
+    "duration": {
+      "year": 2023,
+      "month": 3,
+      "day": 3
+    }
+  }
+]

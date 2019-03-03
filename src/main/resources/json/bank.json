@@ -1,0 +1,182 @@
+[
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "bankId": 1,
+    "name": "Bank",
+    "country": "Ukraine",
+    "depositTypes": [
+      "CALCULATED",
+      "ACCUMULATIVE"
+    ],
+    "depositor": "1",
+    "accountId": 1,
+    "amountOnDeposit": 1,
+    "profitability": 1,
+    "duration": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[ {
+  "bankId" : 0,
+  "name" : "Bank",
+  "country" : "Country",
+  "depositTypes" : [ "EXPRESS" ],
+  "depositor" : "Depositor",
+  "accountId" : 0,
+  "amountOnDeposit" : 593,
+  "profitability" : 1,
+  "duration" : {
+    "year" : 2027,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 62,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 3
+  }
+}, {
+  "bankId" : 1,
+  "name" : "Bank",
+  "country" : "Country",
+  "depositTypes" : [ "EXPRESS" ],
+  "depositor" : "Depositor",
+  "accountId" : 1,
+  "amountOnDeposit" : 377,
+  "profitability" : 1,
+  "duration" : {
+    "year" : 2021,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 62,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 3
+  }
+}, {
+  "bankId" : 2,
+  "name" : "Bank",
+  "country" : "Country",
+  "depositTypes" : [ "QUESTION" ],
+  "depositor" : "Depositor",
+  "accountId" : 2,
+  "amountOnDeposit" : 891,
+  "profitability" : 1,
+  "duration" : {
+    "year" : 2024,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 63,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 3,
+    "dayOfMonth" : 3
+  }
+}, {
+  "bankId" : 3,
+  "name" : "Bank",
+  "country" : "Country",
+  "depositTypes" : [ "EXPRESS" ],
+  "depositor" : "Depositor",
+  "accountId" : 3,
+  "amountOnDeposit" : 741,
+  "profitability" : 1,
+  "duration" : {
+    "year" : 2029,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 62,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 3
+  }
+}, {
+  "bankId" : 4,
+  "name" : "Bank",
+  "country" : "Country",
+  "depositTypes" : [ "EXPRESS" ],
+  "depositor" : "Depositor",
+  "accountId" : 4,
+  "amountOnDeposit" : 979,
+  "profitability" : 1,
+  "duration" : {
+    "year" : 2025,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 62,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 3
+  }
+} ]
